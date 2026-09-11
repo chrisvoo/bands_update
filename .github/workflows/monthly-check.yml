@@ -1,0 +1,47 @@
+name: Monthly bands check
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'   # 1st of every month at 08:00 UTC
+  workflow_dispatch:        # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run bands check
+        run: node index.mjs
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add checks.json
+          git diff --staged --quiet || git commit -m "chore: monthly bands check $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Generate results page
+        run: node generate-page.mjs
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          commit_message: "Update results page ${{ github.run_id }}"
+          force_orphan: false

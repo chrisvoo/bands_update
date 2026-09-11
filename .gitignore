@@ -1,5 +1,7 @@
 .idea
 latest_check_results.txt
+results.json
+site/
 
 # Logs
 logs

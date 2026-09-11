@@ -8,6 +8,7 @@ import { getReleaseGroups, ServerBusyError } from './musicbrainz.mjs';
 const CHECKS_FILE = './checks.json';
 const TODAY = new Date().toISOString().slice(0, 10);
 const SUMMARY_FILE = './latest_check_results.txt';
+const RESULTS_FILE = './results.json';
 const red = str => `\x1b[31m${str}\x1b[0m`;
 const stripAnsi = str => str.replace(/\x1b\[[0-9;]*m/g, '');
 
@@ -159,5 +160,16 @@ function buildSummary(results, elapsedMs) {
         await writeFile(SUMMARY_FILE, stripAnsi(summary), 'utf8');
     } catch (err) {
         console.error(red('Warning: failed to write summary file:'), err.message);
+    }
+    try {
+        const payload = {
+            date: TODAY,
+            elapsed_seconds: (Date.now() - startTime) / 1000,
+            bands_total: entries.length,
+            findings: results,
+        };
+        await writeFile(RESULTS_FILE, JSON.stringify(payload, null, 2), 'utf8');
+    } catch (err) {
+        console.error(red('Warning: failed to write results.json:'), err.message);
     }
 })();
