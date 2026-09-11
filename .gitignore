@@ -1,3 +1,6 @@
+.idea
+latest_check_results.txt
+
 # Logs
 logs
 *.log

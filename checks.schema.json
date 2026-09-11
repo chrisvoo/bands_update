@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://github.com/chrisvoo/bands_update/checks.schema.json",
+    "title": "checks",
+    "description": "Persistent state for bands_update: one entry per tracked band.",
+    "type": "object",
+    "patternProperties": {
+        ".*": {
+            "$ref": "#/definitions/band"
+        }
+    },
+    "definitions": {
+        "band": {
+            "type": "object",
+            "required": ["last_album", "last_album_release_date", "last_check", "musicbrainz_id", "discography_url"],
+            "properties": {
+                "last_album": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Title of the last known studio album."
+                },
+                "last_album_release_date": {
+                    "type": "string",
+                    "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$",
+                    "description": "Release date of last_album. Accepts YYYY, YYYY-MM, or YYYY-MM-DD."
+                },
+                "last_check": {
+                    "type": "string",
+                    "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+                    "description": "ISO date (YYYY-MM-DD) of the last MusicBrainz check. Use 1970-01-01 to force a check on the next run."
+                },
+                "musicbrainz_id": {
+                    "type": "string",
+                    "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+                    "description": "MusicBrainz artist MBID (UUID v4). Must be unique across all entries."
+                },
+                "discography_url": {
+                    "oneOf": [
+                        { "type": "string", "pattern": "^(https?://.*|)$" },
+                        { "type": "null" }
+                    ],
+                    "description": "Wikipedia discography URL. Informational only. Must be unique across all entries. Empty string or null allowed when no URL is known."
+                },
+                "missing": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Set by the script when MB reports a newer album than last_album. Clear it manually once you've updated last_album."
+                },
+                "exclude": {
+                    "type": "array",
+                    "items": { "type": "string", "minLength": 1 },
+                    "minItems": 1,
+                    "description": "Album titles returned by MB that should be ignored (e.g. compilations wrongly tagged as studio albums)."
+                },
+                "upcoming": {
+                    "description": "Set by the script when MB reports an album with a future release date. Legacy value 'true' is also accepted (will be migrated on next run).",
+                    "oneOf": [
+                        {
+                            "type": "object",
+                            "required": ["album_name", "release_date"],
+                            "additionalProperties": false,
+                            "properties": {
+                                "album_name": {
+                                    "type": "string",
+                                    "minLength": 1
+                                },
+                                "release_date": {
+                                    "type": "string",
+                                    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+                                }
+                            }
+                        },
+                        { "type": "boolean", "enum": [true] }
+                    ]
+                }
+            },
+            "additionalProperties": false
+        }
+    }
+}

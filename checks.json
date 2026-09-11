@@ -2,1702 +2,1796 @@
     "Accept": {
         "last_album": "Humanoid",
         "last_album_release_date": "2024-04-26",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Accept_discography",
-        "musicbrainz_id": "41f4d85a-0bd7-4602-a3e3-8c47f36efb0a"
+        "musicbrainz_id": "41f4d85a-0bd7-4602-a3e3-8c47f36efb0a",
+        "missing": "Teutonic Titans 1976-2026"
     },
     "AC/DC": {
         "last_album": "Power Up",
         "last_album_release_date": "2020",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/AC/DC_discography",
         "musicbrainz_id": "66c662b6-6e2f-4930-8610-912e24c63ed1"
     },
     "Adelitas Way": {
         "last_album": "Power",
         "last_album_release_date": "2023-09-16",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Adelitas_Way_discography",
-        "musicbrainz_id": "6ae6a016-91d7-46cc-be7d-5e8e5d320c54"
+        "musicbrainz_id": "6ae6a016-91d7-46cc-be7d-5e8e5d320c54",
+        "missing": "Speak My Mind"
     },
     "Aerosmith": {
         "last_album": "Music from Another Dimension!",
         "last_album_release_date": "2012",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Aerosmith_albums_discography",
         "musicbrainz_id": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
-        "exclude": ["1971: The Road Starts Hear"]
+        "exclude": [
+            "1971: The Road Starts Hear"
+        ]
     },
     "Agnostic Front": {
         "last_album": "Echoes In Eternity",
         "last_album_release_date": "2025",
-        "last_check": "2025-06-08",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Agnostic_Front#Discography",
         "musicbrainz_id": "40b8a690-94e4-4c82-ad0f-73f4b841e46a"
     },
     "Alcest": {
         "last_album": "Les Chants de l’aurore",
         "last_album_release_date": "2024-06-21",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Alcest#Studio_albums",
         "musicbrainz_id": "dd77b8da-cdc7-46b8-8a7f-10894ca0490e"
     },
     "Alestorm": {
         "last_album": "The Thunderfist Chronicles",
         "last_album_release_date": "2025-06-20",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Alestorm_discography",
-        "musicbrainz_id": "c0252a1b-0133-46bb-8c4f-cade46349ec3",
-        "upcoming": true
+        "musicbrainz_id": "c0252a1b-0133-46bb-8c4f-cade46349ec3"
     },
     "Alice cooper": {
         "last_album": "Road",
         "last_album_release_date": "2023",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Alice_Cooper_discography",
         "musicbrainz_id": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae"
     },
     "Alice in Chains": {
         "last_album": "Rainier Fog",
         "last_album_release_date": "2018",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Alice_in_Chains_discography",
         "musicbrainz_id": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
-        "exclude": ["Greatest Hits (Chopped Not Slopped by DJ Lil Steve)"]
+        "exclude": [
+            "Greatest Hits (Chopped Not Slopped by DJ Lil Steve)"
+        ]
     },
     "Alter Bridge": {
         "last_album": "Alter Bridge",
         "last_album_release_date": "2026",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Alter_Bridge_discography",
         "musicbrainz_id": "60a23fda-a440-4ab9-a344-7dfdd2ed341a"
     },
     "Amon Amarth": {
         "last_album": "The Great Heathen Army",
         "last_album_release_date": "2022-08-05",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Amon_Amarth_discography",
-        "musicbrainz_id": "5b687684-ad34-4a9f-b425-0e7aa81fbd38"
+        "musicbrainz_id": "5b687684-ad34-4a9f-b425-0e7aa81fbd38",
+        "upcoming": {
+            "album_name": "The Allfather Awakens",
+            "release_date": "2026-10-02"
+        }
     },
     "Angra": {
         "last_album": "Cycles of Pain",
         "last_album_release_date": "2023",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Angra_(band)#Studio_albums",
-        "musicbrainz_id": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab"
+        "musicbrainz_id": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+        "missing": "Temple of Shadows - 20th Anniversary"
     },
     "Annihilator": {
         "last_album": "Metal II",
         "last_album_release_date": "2022",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "discography_url": "https://en.wikipedia.org/wiki/Annihilator_discography",
         "musicbrainz_id": "c30ebe30-514f-4e6d-823a-19adf0225a56"
     },
     "Anthrax": {
         "last_album": "For All Kings",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2016",
         "discography_url": "https://en.wikipedia.org/wiki/Anthrax_discography",
         "musicbrainz_id": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
-        "exclude": ["Crazy Sheep"]
+        "exclude": [
+            "Crazy Sheep"
+        ],
+        "upcoming": {
+            "album_name": "Cursum Perficio",
+            "release_date": "2026-09-18"
+        }
     },
     "A Perfect Circle": {
         "last_album": "Eat the Elephant",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2018",
         "discography_url": "https://en.wikipedia.org/wiki/A_Perfect_Circle_discography",
         "musicbrainz_id": "078a9376-3c04-4280-b7d7-b20e158f345d"
     },
     "Apocalyptica": {
         "last_album": "Plays Metallica, Vol. 2",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Apocalyptica_discography",
         "musicbrainz_id": "788ad31c-bf0c-4a31-83f8-b8b130d79c76"
     },
     "Arch enemy": {
         "last_album": "Blood Dynasty",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Arch_Enemy_discography",
         "musicbrainz_id": "e631bb92-3e2b-43e3-a2cb-b605e2fb53bd"
     },
     "Architects": {
         "last_album": "The Sky, the Earth & All Between",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Architects_discography",
         "musicbrainz_id": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c"
     },
     "Artillery": {
         "last_album": "X",
-        "last_check": "2026-08-23",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Artillery_(band)#Studio_albums",
         "musicbrainz_id": "bd7febcc-fa2c-498a-a48b-9cf2be54dfed"
     },
     "Ash": {
         "last_album": "Ad Astra",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Ash_discography",
         "musicbrainz_id": "99164692-c02d-407c-81c9-25d338dd21f4"
     },
     "Asian dub foundation": {
         "last_album": "Access Denied",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Asian_Dub_Foundation#Discography",
         "musicbrainz_id": "db612997-f11e-424d-8b41-cf410a433656"
     },
     "As I Lay Dying": {
         "last_album": "Through Storms Ahead",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/As_I_Lay_Dying_discography",
         "musicbrainz_id": "ba147ea0-60c4-4a40-9da6-0d5c2b2e7b03"
     },
     "Avantasia": {
         "last_album": "Here Be Dragons",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Avantasia_discography",
         "musicbrainz_id": "2ecbc483-dee4-442f-8ce7-f3ab31c73f87"
     },
     "Avatar": {
         "last_album": "Don’t Go in the Forest",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Avatar_(band)#Studio_albums",
         "musicbrainz_id": "a8d77515-f7b7-4d71-9646-8446a3b2a341"
     },
     "Avenged sevenfold": {
         "last_album": "Life Is But a Dream…",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Avenged_Sevenfold_discography",
         "musicbrainz_id": "24e1b53c-3085-4581-8472-0b0088d2508c"
     },
     "Bad religion": {
         "last_album": "Age of Unreason",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/Bad_Religion_discography",
         "musicbrainz_id": "149e6720-4e4a-41a4-afca-6d29083fc091"
     },
     "Ben Harper": {
         "last_album": "Wide Open Light",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Ben_Harper_discography",
         "musicbrainz_id": "1582a5b8-538e-45e7-9ae4-4099439a0e79"
     },
     "Billy Idol": {
         "last_album": "Dream Into It",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Billy_Idol_discography",
-        "musicbrainz_id": "47c8f88b-987a-4b64-9175-2b1b57809727",
-        "upcoming": true
+        "musicbrainz_id": "47c8f88b-987a-4b64-9175-2b1b57809727"
     },
     "Black Label Society": {
         "last_album": "Engines of Demolition",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Black_Label_Society_discography",
         "musicbrainz_id": "a8e935c6-3fcc-414c-900c-77e8170e7e7c"
     },
     "Black Orchid Empire": {
         "last_album": "Tempus Veritas",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "",
-        "musicbrainz_id": "47e64758-16e2-4a99-80dc-d778c5d1c680"
+        "musicbrainz_id": "47e64758-16e2-4a99-80dc-d778c5d1c680",
+        "missing": "LORE"
     },
     "Black Stone Cherry": {
         "last_album": "Screamin' At The Sky",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Black_Stone_Cherry_discography",
         "musicbrainz_id": "1801bd47-46ae-49ff-bfcd-6e01b562d880"
     },
     "Bleed From Within": {
         "last_album": "Zenith",
-        "last_check": "2026-08-24",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Bleed_from_Within#Discography",
         "musicbrainz_id": "385d80ab-cf87-46ed-b4c9-3ea8942993ef"
     },
     "Blind guardian": {
         "last_album": "Somewhere Far Beyond Revisited",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Blind_Guardian_discography",
         "musicbrainz_id": "7fa7fc04-1011-4876-8095-ecd232edea87"
     },
     "Blink-182": {
         "last_album": "ONE MORE TIME…",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Blink-182_discography",
         "musicbrainz_id": "0743b15a-3c32-48c8-ad58-cb325350befa"
     },
     "Bloodbound": {
         "last_album": "Field of Swords",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Bloodbound#Discography",
         "musicbrainz_id": "876f5365-f9a8-4e86-9986-192b75e05aca"
     },
     "Blue Öyster Cult": {
         "last_album": "Ghost Stories",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Blue_%C3%96yster_Cult_discography",
         "musicbrainz_id": "c7423e0c-ab3e-4ab4-be10-cdff5a9d3062"
     },
     "Blur": {
         "last_album": "The Ballad of Darren",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Blur_discography",
         "musicbrainz_id": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
     },
     "Borknagar": {
         "last_album": "Fall",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Borknagar#Studio_albums",
         "musicbrainz_id": "8df2629f-8ae9-4687-9207-4cf3c22cc763"
     },
     "Bruce Springsteen": {
         "last_album": "Only the Strong Survive: Covers, Vol. 1",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen_discography",
         "musicbrainz_id": "70248960-cb53-4ea4-943a-edb18f7d336f"
     },
     "Bury Tomorrow": {
         "last_album": "Will You Haunt Me, With That Same Patience",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Bury_Tomorrow_discography",
-        "musicbrainz_id": "95c4e9ef-291b-4f94-8bc9-2b00e76eacb0",
-        "upcoming": true
+        "musicbrainz_id": "95c4e9ef-291b-4f94-8bc9-2b00e76eacb0"
     },
     "Calexico": {
         "last_album": "El Mirador",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Calexico_discography",
         "musicbrainz_id": "5e372a49-5672-4fb8-ba14-18c90780c4f9"
     },
     "Caligula's Horse": {
         "last_album": "Charcoal Grace",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Caligula%27s_Horse#Studio_albums",
         "musicbrainz_id": "3ab39ae8-599e-4d70-8902-894dcfcf4092"
     },
     "Caparezza": {
         "last_album": "Orbit Orbit",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Caparezza",
         "musicbrainz_id": "82462e70-bc00-43ba-8d96-734efa6e72ac"
     },
     "Cavalera Conspiracy": {
         "last_album": "Schizophrenia",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Cavalera_Conspiracy#Studio_albums",
         "musicbrainz_id": "5bd1060b-8608-4817-93ca-207f7c828e2f"
     },
     "Celesty": {
         "last_album": "Vendetta",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2009",
         "discography_url": null,
         "musicbrainz_id": "ae20ea56-594b-4e0f-a306-af01fbc7ae70"
     },
     "Chemical Brothers": {
         "last_album": "For That Beautiful Feeling",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/The_Chemical_Brothers_discography",
         "musicbrainz_id": "1946a82a-f927-40c2-8235-38d64f50d043"
     },
     "Children of Bodom": {
         "last_album": "Hexed",
-        "last_check": "2025-06-07",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/Children_of_Bodom_discography#Studio_albums",
         "musicbrainz_id": "f57e14e4-b030-467c-b202-539453f504ec"
     },
     "Chris Isaak": {
         "last_album": "Everybody Knows It's Christmas",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Chris_Isaak_discography",
         "musicbrainz_id": "479497d4-e7c2-4e78-972e-56e78fac3995"
     },
     "Coal Chamber": {
         "last_album": "Rivals",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Coal_Chamber#Discography",
         "musicbrainz_id": "f3430779-bbec-437b-944d-1fbf45d2e786"
     },
     "Coat of arms": {
         "last_album": "A shade of red",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": null,
-        "musicbrainz_id": "9317546d-028a-47a1-ac37-f527c5148717"
+        "musicbrainz_id": "9317546d-028a-47a1-ac37-f527c5148717",
+        "missing": "Sun & Satellites"
     },
     "Coheed and Cambria": {
         "last_album": "Vaxis – Act III: The Father of Make Believe",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Coheed_and_Cambria_discography",
         "musicbrainz_id": "ae1b47d5-5128-431c-9d30-e08fd90e0767"
     },
     "Coldplay": {
         "last_album": "Moon Music",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Coldplay_discography",
         "musicbrainz_id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
     },
     "Concrete Age": {
         "last_album": "Awaken The Gods",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": null,
         "musicbrainz_id": "2c74a6a8-f964-46cc-9584-15e76aec3e2e"
     },
     "Conte": {
         "last_album": "Amazing Game",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2016",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Paolo_Conte",
         "musicbrainz_id": "777bfd31-0c54-49b9-b057-c1fa742cdcf1"
     },
     "Creed": {
         "last_album": "Full Circle",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2009",
         "discography_url": "https://it.wikipedia.org/wiki/Creed#Album_in_studio",
         "musicbrainz_id": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99"
     },
     "Cypress hill": {
         "last_album": "Back in Black",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Cypress_Hill#Studio_albums",
-        "musicbrainz_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78"
+        "musicbrainz_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+        "missing": "Dios Bendiga"
     },
     "Davide Van des sfros": {
         "last_album": "Manōglia",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://it.wikipedia.org/wiki/Davide_Van_De_Sfroos#Discografia",
         "musicbrainz_id": "0702243a-e042-48de-8cf1-181c7fab54a2"
     },
     "Dead Can Dance": {
         "last_album": "Dionysus",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2018",
         "discography_url": "https://en.wikipedia.org/wiki/Dead_Can_Dance_discography#Studio_albums",
         "musicbrainz_id": "ccda046a-2674-4f7d-97e6-f23d6c156432"
     },
     "Dead Poet Society": {
         "last_album": "FISSION",
-        "last_check": "2026-08-24",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Dead_Poet_Society#Albums",
         "musicbrainz_id": "435bcadf-2278-4492-a2d3-f7f0ce09badb",
-        "upcoming": true
+        "upcoming": {
+            "album_name": "Monarch",
+            "release_date": "2026-10-02"
+        }
     },
     "Deep purple": {
         "last_album": "=1",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Deep_Purple_discography",
-        "musicbrainz_id": "79491354-3d83-40e3-9d8e-7592d58d790a"
+        "musicbrainz_id": "79491354-3d83-40e3-9d8e-7592d58d790a",
+        "missing": "SPLAT!"
     },
     "Def Leppard": {
         "last_album": "Diamond Star Halos",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Def_Leppard_discography",
         "musicbrainz_id": "7249b899-8db8-43e7-9e6e-22f1e736024e"
     },
     "Depeche Mode": {
         "last_album": "Memento Mori",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Depeche_Mode_discography",
         "musicbrainz_id": "8538e728-ca0b-4321-b7e5-cff6565dd4c0"
     },
     "Dethklok": {
         "last_album": "Dethalbum IV",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Dethklok#Discography",
         "musicbrainz_id": "1afcd689-9be4-4d1a-a9fa-49e086250f51"
     },
     "Deus": {
         "last_album": "How to Replace It",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Deus_discography",
         "musicbrainz_id": "2d0ec174-2bff-4f46-ae1b-dfea0ed9391c"
     },
     "DevilDriver": {
         "last_album": "Dealing With Demons, Vol. II",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/DevilDriver#Discography",
-        "musicbrainz_id": "1aded574-9e16-4648-861a-24fd6f1c309e"
+        "musicbrainz_id": "1aded574-9e16-4648-861a-24fd6f1c309e",
+        "missing": "Strike and Kill"
     },
     "Devin Townsend": {
         "last_album": "PowerNerd",
-        "last_check": "2025-06-07",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Devin_Townsend#Solo_albums",
-        "musicbrainz_id": "93e8c41e-8e4f-4d08-bbf5-bc1a903b2423"
+        "musicbrainz_id": "93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
+        "missing": "The Moth"
     },
     "Devin Townsend Project": {
         "last_album": "Transcendence",
-        "last_check": "2025-06-07",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2016",
         "discography_url": "https://en.wikipedia.org/wiki/Devin_Townsend#Devin_Townsend_Project",
         "musicbrainz_id": "b00cb756-0259-4a50-bbcb-ad22186c5518"
     },
     "Devin Townsend Band": {
         "last_album": "Synchestra",
-        "last_check": "2025-06-07",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2006",
         "discography_url": "https://en.wikipedia.org/wiki/Devin_Townsend#The_Devin_Townsend_Band",
         "musicbrainz_id": "6e9d417e-7eb1-45dd-af0c-60ac85dfcd7a"
     },
     "Disturbed": {
         "last_album": "Divisive",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Disturbed_discography",
         "musicbrainz_id": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5"
     },
     "Dragonforce": {
         "last_album": "Warp Speed Warriors",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/DragonForce_discography",
         "musicbrainz_id": "ef58d4c9-0d40-42ba-bfab-9186c1483edd"
     },
     "Dream Theater": {
         "last_album": "Parasomnia",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Dream_Theater_discography",
         "musicbrainz_id": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d"
     },
     "Dvne": {
         "last_album": "Voidkind",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": null,
         "musicbrainz_id": "cd49dd31-cf8f-4b65-a76b-1eff2440f4b7"
     },
     "Dynazty": {
         "last_album": "Game of Faces",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Dynazty#Discography",
         "musicbrainz_id": "34ed5c5f-24ca-4034-b9f7-1fa8e476d9be"
     },
     "Eels": {
         "last_album": "EELS TIME!",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Eels_discography",
-        "musicbrainz_id": "14387b0f-765c-4852-852f-135335790466"
+        "musicbrainz_id": "14387b0f-765c-4852-852f-135335790466",
+        "upcoming": {
+            "album_name": "Cookie Happened",
+            "release_date": "2026-10-16"
+        }
     },
     "Elisa": {
         "last_album": "Ritorno al futuro / Back to the Future",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Elisa",
         "musicbrainz_id": "8d173bdf-c83e-42d7-8355-c8d6f0d10c0e"
     },
     "Elton John": {
         "last_album": "Who Believes in Angels?",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Elton_John_albums_discography",
-        "musicbrainz_id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822"
+        "musicbrainz_id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+        "missing": "Positiva Presents: Elton John - The Remixes"
     },
     "Eluveitie": {
         "last_album": "Ànv",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Eluveitie_discography",
-        "musicbrainz_id": "8000598a-5edb-401c-8e6d-36b167feaf38",
-        "upcoming": true
+        "musicbrainz_id": "8000598a-5edb-401c-8e6d-36b167feaf38"
     },
     "Elvenking": {
         "last_album": "Reader of the Runes - Luna",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Elvenking_(band)#Discography",
         "musicbrainz_id": "3d6bbeb7-f90e-4d10-b440-e153c0d10b53"
     },
     "Ensiferum": {
         "last_album": "Winter Storm",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Ensiferum#Studio_albums",
         "musicbrainz_id": "6e64cbfa-1a60-450e-81f4-c044c868ab24"
     },
     "Enya": {
         "last_album": "Dark Sky Island",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Enya_discography",
         "musicbrainz_id": "4967c0a1-b9f3-465e-8440-4598fd9fc33c"
     },
     "Epica": {
         "last_album": "Aspiral",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Epica_discography",
-        "musicbrainz_id": "21985b14-1b0d-44fe-b357-310b29bba510",
-        "upcoming": true
+        "musicbrainz_id": "21985b14-1b0d-44fe-b357-310b29bba510"
     },
     "Eric Clapton": {
         "last_album": "Meanwhile",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Eric_Clapton_albums_discography",
         "musicbrainz_id": "618b6900-0618-4f1e-b835-bccb17f84294"
     },
     "Evanescence": {
         "last_album": "The Bitter Truth",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Evanescence_discography",
-        "musicbrainz_id": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9"
+        "musicbrainz_id": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+        "missing": "Sanctuary"
     },
     "Eye of the enemy": {
         "last_album": "Titan",
-        "last_check": "2025-11-19",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/Eye_of_the_Enemy#Discography",
         "musicbrainz_id": "e2f20de3-0d64-4dad-b79b-830d284d98b0"
     },
     "Faith No More": {
         "last_album": "Sol Invictus",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Faith_No_More_discography",
         "musicbrainz_id": "b15ebd71-a252-417d-9e1c-3e6863da68f8"
     },
     "Fear Factory": {
         "last_album": "Aggression Continuum (The Instrumentals)",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Fear_Factory_discography#Studio_albums",
         "musicbrainz_id": "c17f08f4-2542-46fb-97f3-3202d60c225a",
-        "exclude": ["Re-Industrialized"]
+        "exclude": [
+            "Re-Industrialized"
+        ],
+        "missing": "Re‐Industrialized"
     },
     "Fit for an Autopsy": {
         "last_album": "The Nothing That Is",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Fit_for_an_Autopsy#Discography",
         "musicbrainz_id": "4d884695-d088-40d7-92e7-1f48470bb9fa"
     },
     "Five Finger Death Punch": {
         "last_album": "AfterLife",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Five_Finger_Death_Punch_discography",
-        "musicbrainz_id": "7e8571b1-7c5a-4739-bc51-73d422ee9d74"
+        "musicbrainz_id": "7e8571b1-7c5a-4739-bc51-73d422ee9d74",
+        "missing": "Legacy"
     },
     "Florence + the Machine": {
         "last_album": "Everybody Scream",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Florence_and_the_Machine_discography",
         "musicbrainz_id": "5fee3020-513b-48c2-b1f7-4681b01db0c6"
     },
     "Foo Fighters": {
         "last_album": "Your Favorite Toy",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Foo_Fighters_discography",
         "musicbrainz_id": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
     },
     "Galderia": {
         "last_album": "Endless Horizon",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": null,
         "musicbrainz_id": "4ad249a2-588d-4984-b54a-167514f49531"
     },
     "Gamma Ray": {
         "last_album": "Empire of the Undead",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2014",
         "discography_url": "https://en.wikipedia.org/wiki/Gamma_Ray_discography",
         "musicbrainz_id": "8766cdd6-066c-4b14-ba53-c7958e613bad"
     },
     "Ghost": {
         "last_album": "Skeletá",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Ghost_discography",
-        "musicbrainz_id": "2bcf2e02-5bc3-4c76-bf76-41126cb11444",
-        "upcoming": true
+        "musicbrainz_id": "2bcf2e02-5bc3-4c76-bf76-41126cb11444"
     },
     "Gloryhammer": {
         "last_album": "Return to the Kingdom of Fife",
-        "last_check": "2025-04-21",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Gloryhammer#Discography",
-        "musicbrainz_id": "85997032-ff48-4383-b86a-a920d4230a0b"
+        "musicbrainz_id": "85997032-ff48-4383-b86a-a920d4230a0b",
+        "upcoming": {
+            "album_name": "Space 1993: Wrath of Kor-Virliath",
+            "release_date": "2026-10-16"
+        }
     },
     "Gojira": {
         "last_album": "Fortitude",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Gojira_discography",
         "musicbrainz_id": "1c5efd53-d6b6-4d63-9d22-a15025cf5f07"
     },
     "Green Day": {
         "last_album": "Saviors",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Green_Day_discography",
         "musicbrainz_id": "084308bd-1654-436f-ba03-df6697104e19"
     },
     "Greta Van Fleet": {
         "last_album": "Starcatcher",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Greta_Van_Fleet_discography",
-        "musicbrainz_id": "0be22557-d8c7-4706-a531-625c4c570162"
+        "musicbrainz_id": "0be22557-d8c7-4706-a531-625c4c570162",
+        "upcoming": {
+            "album_name": "Palace for the People",
+            "release_date": "2026-10-09"
+        }
     },
     "Guns N' Roses": {
         "last_album": "Chinese Democracy",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2008",
         "discography_url": "https://en.wikipedia.org/wiki/Guns_N%27_Roses_discography",
         "musicbrainz_id": "eeb1195b-f213-4ce1-b28c-8565211f8e43"
     },
     "Haken": {
         "last_album": "Fauna",
-        "last_check": "2026-08-24",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Haken_(band)#Studio_albums",
         "musicbrainz_id": "0246a3fd-a254-416d-8cd2-e31da4ac6f59"
     },
     "Helloween": {
         "last_album": "Giants & Monsters",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Helloween_discography",
         "musicbrainz_id": "765774a0-2060-469b-8b7d-612eea48579b"
     },
     "HELLYEAH": {
         "last_album": "Welcome Home",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/Hellyeah_discography",
         "musicbrainz_id": "680d9f43-3287-4f16-a9ab-b5904746f745"
     },
     "Her Last Sight": {
         "last_album": "SEASONS // SUMMER",
-        "last_check": "2026-08-24",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "",
-        "musicbrainz_id": "660dcecc-b371-428f-b639-db202d6ab54a"
+        "musicbrainz_id": "660dcecc-b371-428f-b639-db202d6ab54a",
+        "missing": "SEASONS // SPRING"
     },
     "Iggy Pop": {
         "last_album": "Every Loser",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Iggy_Pop_discography",
         "musicbrainz_id": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7"
     },
     "Imelda May": {
         "last_album": "11 Past the Hour",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Imelda_May_discography",
         "musicbrainz_id": "cf7560ef-7714-477e-b4cd-59de0a2d11fb"
     },
     "Iron Maiden": {
         "last_album": "Senjutsu",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Iron_Maiden_discography",
-        "musicbrainz_id": "ca891d65-d9b0-4258-89f7-e6ba29d83767"
+        "musicbrainz_id": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+        "missing": "The Beat Sessions"
     },
     "Ironsavior": {
         "last_album": "Awesome Anthems of the Galaxy",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Iron_Savior#Discography",
         "musicbrainz_id": "56806de5-eeed-4081-9475-d585dc049081"
     },
     "Jack Johnson": {
         "last_album": "In Between Dub",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Jack_Johnson_discography",
         "musicbrainz_id": "ff6e677f-91dd-4986-a174-8db0474b1799"
     },
     "Jamiroquai": {
         "last_album": "Automaton",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2017",
         "discography_url": "https://en.wikipedia.org/wiki/Jamiroquai_discography",
         "musicbrainz_id": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544"
     },
     "Jinjer": {
         "last_album": "Duél",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Jinjer#Discography",
         "musicbrainz_id": "51b37017-859c-465e-8810-2d2dd41a401e"
     },
     "Jovanotti": {
         "last_album": "Il corpo umano, Vol. 1",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Jovanotti_discography",
         "musicbrainz_id": "373b3663-ecc3-40c4-9241-838ae8ca34d0",
-        "exclude": ["Occhi a cuore - (Re) mix tape"]
+        "exclude": [
+            "Occhi a cuore - (Re) mix tape"
+        ],
+        "missing": "NIUIORCHERUBINI (BROOKLYN STUDIO, JOVA SESSION 25)"
     },
     "Judas Priest": {
         "last_album": "Invincible Shield",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Judas_Priest_discography",
         "musicbrainz_id": "6b335658-22c8-485d-93de-0bc29a1d0349"
     },
     "Kaki King": {
         "last_album": "Sei",
-        "last_check": "2025-11-16",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Kaki_King#Discography",
         "musicbrainz_id": "451f8f16-990a-412c-ab3a-b61e5d265b55"
     },
     "Karnivool": {
         "last_album": "In Verses",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Karnivool#Albums",
-        "musicbrainz_id": "9ee2638f-c3a3-4532-bc08-54d397241c2a",
-        "upcoming": true
+        "musicbrainz_id": "9ee2638f-c3a3-4532-bc08-54d397241c2a"
     },
     "Katatonia": {
         "last_album": "Nightmares as Extensions of the Waking State",
-        "last_check": "2025-04-21",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Katatonia_discography",
-        "musicbrainz_id": "61ed9c9c-79eb-4e8f-8015-bd599ac0ab49",
-        "upcoming": true
+        "musicbrainz_id": "61ed9c9c-79eb-4e8f-8015-bd599ac0ab49"
     },
     "Killswitch Engage": {
         "last_album": "This Consequence",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Killswitch_Engage_discography",
         "musicbrainz_id": "8295ee00-0096-461d-95c7-c2263d2a4c6d"
     },
     "Kings of Convenience": {
         "last_album": "Peace or Love",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Kings_of_Convenience#Discography",
         "musicbrainz_id": "cf0f4547-ffbd-4011-98ad-0bec9ba022db"
     },
     "Kings of Leon": {
         "last_album": "Can We Please Have Fun",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Kings_of_Leon_discography",
-        "musicbrainz_id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b"
+        "musicbrainz_id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+        "upcoming": {
+            "album_name": "O My Beloved",
+            "release_date": "2026-11-06"
+        }
     },
     "Korn": {
         "last_album": "Requiem",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Korn_discography",
         "musicbrainz_id": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46"
     },
     "L7": {
         "last_album": "Scatter the Rats",
-        "last_check": "2025-11-19",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/L7_(band)#Discography",
         "musicbrainz_id": "57111f1f-9829-45ea-bb4e-a5aba37cd1d1"
     },
     "Lacuna Coil": {
         "last_album": "Sleepless Empire",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_dei_Lacuna_Coil",
         "musicbrainz_id": "6fea1339-260c-40fe-bb7a-ace5c8438955"
     },
     "Lamb of God": {
         "last_album": "Into Oblivion",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Lamb_of_God_discography",
         "musicbrainz_id": "298909e4-ebcb-47b8-95e9-cc53b087fc65"
     },
     "Last in line": {
         "last_album": "Jericho",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Last_in_Line#Discography",
         "musicbrainz_id": "64a7bce8-b8b2-4eb5-a088-2e401b0f925d"
     },
     "Leprous": {
         "last_album": "Melodies of Atonement",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Leprous#Discography",
         "musicbrainz_id": "a2e55cf5-ca3a-4c26-ba62-fc4a4f2bc603"
     },
     "Limp Bizkit": {
         "last_album": "Still Sucks",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Limp_Bizkit_discography",
         "musicbrainz_id": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c"
     },
     "Linkin park": {
         "last_album": "From Zero",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Linkin_Park_discography",
         "musicbrainz_id": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-        "exclude": ["From Zero: A Cappellas"]
+        "exclude": [
+            "From Zero: A Cappellas"
+        ]
     },
     "Liquid Tension Experiment": {
         "last_album": "Liquid Tension Experiment 3",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Liquid_Tension_Experiment#Discography",
         "musicbrainz_id": "bc641be9-ca36-4c61-9394-5230433f6646"
     },
     "Lord Of The Lost": {
         "last_album": "OPVS NOIR Vol. 2",
-        "last_check": "2026-01-28",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Lord_of_the_Lost#Studio_albums",
         "musicbrainz_id": "8cf95123-5023-4257-933e-4d7ebbc5d8a2",
-        "exclude": ["OPVS NOIR Vol. 2 (Instrumental)"]
+        "exclude": [
+            "OPVS NOIR Vol. 2 (Instrumental)"
+        ],
+        "missing": "OPVS NOIR Vol. 3 (Instrumental)"
     },
     "Loreena McKennitt": {
         "last_album": "Lost Souls",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2018",
         "discography_url": "https://en.wikipedia.org/wiki/Loreena_McKennitt#Discography",
         "musicbrainz_id": "c1e5344e-1bff-4727-9417-a4f55e41b5ff",
-        "exclude": ["In Her Own Words: The Mask and Mirror"]
+        "exclude": [
+            "In Her Own Words: The Mask and Mirror"
+        ]
     },
     "Lynyrd Skynyrd": {
         "last_album": "Last of a Dyin’ Breed",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2012",
         "discography_url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography",
         "musicbrainz_id": "c544ed4d-2390-4442-a83e-1ea2883b09c8"
     },
     "Machine Head": {
         "last_album": "UNATØNED",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Machine_Head_discography",
-        "musicbrainz_id": "22a1f4d7-81ff-4216-ac06-3387da6bc118",
-        "upcoming": true
+        "musicbrainz_id": "22a1f4d7-81ff-4216-ac06-3387da6bc118"
     },
     "Mammoth": {
         "last_album": "The End",
-        "last_check": "2025-05-18",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Mammoth_(band)#Discography",
         "musicbrainz_id": "49a6efb9-9b52-44ce-8167-7cb1c21a8c45"
     },
     "Manu Chao": {
         "last_album": "Viva Tu",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Manu_Chao_discography",
         "musicbrainz_id": "7570a0dd-5a67-401b-b19a-261eee01a284"
     },
     "Manowar": {
         "last_album": "Kings of Metal MMXIV",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2014",
         "discography_url": "https://en.wikipedia.org/wiki/Manowar_discography",
         "musicbrainz_id": "00eeed6b-5897-4359-8347-b8cd28375331"
     },
     "Marillion": {
         "last_album": "An Hour Before It’s Dark",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Marillion_discography",
-        "musicbrainz_id": "1932f5b6-0b7b-4050-b1df-833ca89e5f44"
+        "musicbrainz_id": "1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+        "missing": "Live at the Roundhouse"
     },
     "Marilyn Manson": {
         "last_album": "One Assassination Under God, Chapter 1",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Marilyn_Manson_discography",
-        "musicbrainz_id": "5dfdca28-9ddc-4853-933c-8bc97d87beec"
+        "musicbrainz_id": "5dfdca28-9ddc-4853-933c-8bc97d87beec",
+        "missing": "One Assassination Under God, Chapter 2"
     },
     "Mark Knopfler": {
         "last_album": "One Deep River",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Mark_Knopfler_discography",
         "musicbrainz_id": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5"
     },
     "Massive Attack": {
         "last_album": "Heligoland",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2010",
         "discography_url": "https://en.wikipedia.org/wiki/Massive_Attack_discography",
         "musicbrainz_id": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
-        "exclude": ["Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes '98)"]
+        "exclude": [
+            "Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes '98)"
+        ]
     },
     "Max Gazzè": {
         "last_album": "La matematica dei rami",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Max_Gazz%C3%A8",
-        "musicbrainz_id": "49111855-2c7c-4142-8537-eed2362cf052"
+        "musicbrainz_id": "49111855-2c7c-4142-8537-eed2362cf052",
+        "missing": "L'ornamento delle cose secondarie"
     },
     "Megadeth": {
         "last_album": "Megadeth",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
-        "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Max_Gazz%C3%A8",
-        "musicbrainz_id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
-        "upcoming": true
+        "discography_url": "https://en.wikipedia.org/wiki/Megadeth_discography#Studio_albums",
+        "musicbrainz_id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
     },
     "Metallica": {
         "last_album": "72 Seasons",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Metallica_discography",
         "musicbrainz_id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
     },
     "Ministry": {
         "last_album": "The Squirrely Years Revisited",
-        "last_check": "2026-09-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Ministry_discography",
         "musicbrainz_id": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
-        "upcoming": true
+        "upcoming": {
+            "album_name": "Hate to Go - Take Out or Delivery",
+            "release_date": "2026-10"
+        }
     },
     "Moby": {
         "last_album": "Future Quiet",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Moby_discography",
         "musicbrainz_id": "8970d868-0723-483b-a75b-51088913d3d4",
-        "exclude": ["Moby House Remixed"]
+        "exclude": [
+            "Moby House Remixed"
+        ]
     },
     "Molotov": {
         "last_album": "Sólo d’lira",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Molotov_(band)#Discography",
         "musicbrainz_id": "4f8916d6-a7d2-43e9-96b6-ce3168c39c84"
     },
     "Monster Magnet": {
         "last_album": "A Better Dystopia",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Monster_Magnet#Studio_albums",
         "musicbrainz_id": "a0955511-1324-4e9b-834f-e1e140502850"
     },
     "Moonspell": {
         "last_album": "Hermitage",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Moonspell#Studio_albums",
-        "musicbrainz_id": "386b19c6-a3d2-414a-bef2-c178572b1cbe"
+        "musicbrainz_id": "386b19c6-a3d2-414a-bef2-c178572b1cbe",
+        "missing": "Far From God"
     },
     "Morcheeba": {
         "last_album": "Escape the Chaos",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Morcheeba#Discography",
-        "musicbrainz_id": "067102ea-9519-4622-9077-57ca4164cfbb",
-        "upcoming": true
+        "musicbrainz_id": "067102ea-9519-4622-9077-57ca4164cfbb"
     },
     "Muse": {
         "last_album": "Will of the People",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Muse_discography",
-        "musicbrainz_id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+        "musicbrainz_id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+        "missing": "The Wow! Signal"
     },
     "My Chemical Romance": {
         "last_album": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2010",
         "discography_url": "https://en.wikipedia.org/wiki/My_Chemical_Romance_discography#Studio_albums",
         "musicbrainz_id": "c07f0676-9143-4217-8a9f-4c26bd636f13",
-        "exclude": ["Conventional Weapons"]
+        "exclude": [
+            "Conventional Weapons"
+        ],
+        "missing": "The Paper Kingdom (Demos)"
     },
     "Ne Obliviscaris": {
         "last_album": "Exul",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Ne_Obliviscaris_(band)#Discography",
         "musicbrainz_id": "75359245-49cf-4991-932f-e078408481f2"
     },
     "Negrita": {
         "last_album": "Canzoni per anni spietati",
-        "last_check": "2026-04-03",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://it.wikipedia.org/wiki/Negrita#Album_in_studio",
         "musicbrainz_id": "701b102f-9f25-4166-9b69-1da91e973396"
     },
     "Nightwish": {
         "last_album": "Yesterwynde",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Nightwish_discography",
         "musicbrainz_id": "00a9f935-ba93-4fc8-a33a-993abe9c936b"
     },
     "Nine Inch Nails": {
         "last_album": "Ghosts VI: Locusts",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Nine_Inch_Nails_discography",
         "musicbrainz_id": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
-        "exclude": ["Ghosts V: Together"]
+        "exclude": [
+            "Ghosts V: Together"
+        ],
+        "missing": "Slate"
     },
     "Norah Jones": {
         "last_album": "Visions",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Norah_Jones_discography",
         "musicbrainz_id": "985c709c-7771-4de3-9024-7bda29ebe3f9"
     },
     "Liam Gallagher": {
         "last_album": "Liam Gallagher John Squire",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "hhttps://en.wikipedia.org/wiki/Liam_Gallagher_discography",
         "musicbrainz_id": "1f2345fa-344e-4863-a1d7-3958d57f4301"
     },
     "Of Monsters and Men": {
         "last_album": "All Is Love and Pain in the Mouse Parade",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Of_Monsters_and_Men#Discography",
         "musicbrainz_id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf"
     },
     "Orbit Culture": {
         "last_album": "Death Above Life",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Orbit_Culture#Discography",
         "musicbrainz_id": "c4f8b170-36cf-4774-bbe9-8d93d204a681"
     },
     "Ouroboros": {
         "last_album": "Emanations",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": null,
         "musicbrainz_id": "00a8516a-f006-4d60-96c6-0f8b5761e0c2"
     },
     "Overkill": {
         "last_album": "Scorched",
-        "last_check": "2025-04-10",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Overkill_discography",
         "musicbrainz_id": "97fa7dd1-4706-4fad-b6ff-e099a37837fc"
     },
     "Ozzy Osbourne": {
         "last_album": "Patient Number 9",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Ozzy_Osbourne_discography",
         "musicbrainz_id": "8aa5b65a-5b3c-4029-92bf-47a544356934"
     },
     "Pain of Salvation": {
         "last_album": "Panther",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Pain_of_Salvation#Discography",
         "musicbrainz_id": "f7c65346-9631-4220-9188-5e90baae58d5"
     },
     "Paleface Swiss": {
         "last_album": "CURSED",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Paleface_Swiss#Albums",
         "musicbrainz_id": "6be0e54b-d3ff-4c17-b7e6-f82d0f624a47"
     },
     "Papa Roach": {
         "last_album": "Ego Trip",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Papa_Roach_discography",
         "musicbrainz_id": "c5eb9407-caeb-4303-b383-6929aa94021c"
     },
     "Paramore": {
-        "last_abum": "This Is Why",
-        "last_check": "2026-08-23",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Paramore_discography#Studio_albums",
-        "musicbrainz_id": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
+        "musicbrainz_id": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+        "last_album": "This Is Why",
+        "missing": "Re: This Is Why"
     },
     "Paul McCartney": {
         "last_album": "McCartney III",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Paul_McCartney_discography",
         "musicbrainz_id": "ba550d0e-adac-4864-b88b-407cab5e76af",
-        "exclude": ["McCartney III Imagined"]
+        "exclude": [
+            "McCartney III Imagined"
+        ],
+        "missing": "The Boys of Dungeon Lane"
     },
     "Pearl Jam": {
         "last_album": "Dark Matter",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Pearl_Jam_discography",
-        "musicbrainz_id": "83b9cbe7-9857-49e2-ab8e-b57b01038103"
+        "musicbrainz_id": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "missing": "Radio Transmissions 1995-2000"
     },
     "Pennywise": {
         "last_album": "Never Gonna die",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2018",
         "discography_url": "https://en.wikipedia.org/wiki/Pennywise_discography",
         "musicbrainz_id": "5c210861-2ce2-4be3-9307-bbcfc361cc01"
     },
     "Periphery": {
         "last_album": "Periphery V: Djent Is Not a Genre",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Periphery_(band)#Studio_albums",
-        "musicbrainz_id": "a0cef17a-4574-44f4-9f97-fd068615dac6"
+        "musicbrainz_id": "a0cef17a-4574-44f4-9f97-fd068615dac6",
+        "missing": "A Pale White Dot"
     },
     "Peter Gabriel": {
         "last_album": "I/O",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Peter_Gabriel_discography",
         "musicbrainz_id": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
     },
     "PFM": {
         "last_album": "I Dreamed of Electric Sheep – Ho sognato pecore elettriche",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_della_Premiata_Forneria_Marconi#Album_in_studio",
         "musicbrainz_id": "85e65d5f-4d9b-407d-b261-882caa52bff3"
     },
     "Pink": {
         "last_album": "Trustfall",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Pink_discography",
         "musicbrainz_id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
     },
     "PJ Harvey": {
         "last_album": "I Inside the Old Year Dying",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/PJ_Harvey_discography",
         "musicbrainz_id": "e795e03d-b5d5-4a5f-834d-162cfb308a2c"
     },
     "Placebo": {
         "last_album": "Never Let Me Go",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Placebo_discography",
-        "musicbrainz_id": "847e8284-8582-4b0e-9c26-b042a4f49e57"
+        "musicbrainz_id": "847e8284-8582-4b0e-9c26-b042a4f49e57",
+        "missing": "Placebo RE:CREATED"
     },
     "Polaris": {
         "last_album": "Fatalism",
-        "last_check": "2026-01-28",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Polaris_(Australian_band)#Studio_albums",
         "musicbrainz_id": "6ffb7be4-0a53-4014-853d-83790cd5e091"
     },
     "Porcupine Tree": {
-		"last_album": "Closure / Continuation",
-        "last_check": "2025-04-09",
+        "last_album": "Closure / Continuation",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Porcupine_Tree_discography#Studio_albums",
         "musicbrainz_id": "169c4c28-858e-497b-81a4-8bc15e0026ea"
-	},
-	"Portishead": {
-		"last_album": "Third",
-        "last_check": "2025-04-09",
+    },
+    "Portishead": {
+        "last_album": "Third",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2008",
         "discography_url": "https://en.wikipedia.org/wiki/Portishead_discography#Studio_albums",
         "musicbrainz_id": "8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11",
-        "exclude": ["R.A.R.E (Reliving a Real Experience)"]
-	},
+        "exclude": [
+            "R.A.R.E (Reliving a Real Experience)"
+        ]
+    },
     "Powerwolf": {
         "last_album": "Wake Up the Wicked",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Powerwolf_discography",
         "musicbrainz_id": "3ef77bdc-b1ce-4e44-aa4b-acfa763c5284"
     },
     "Primal fear": {
         "last_album": "Domination",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Primal_Fear_(band)#Discography",
         "musicbrainz_id": "32567eb3-aeca-467f-8b89-a69b11fcb781"
     },
     "Queens of the Stone Age": {
         "last_album": "In Times New Roman…",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Queens_of_the_Stone_Age_discography",
-        "musicbrainz_id": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+        "musicbrainz_id": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+        "upcoming": {
+            "album_name": "Perfecth",
+            "release_date": "2026-10-30"
+        }
     },
     "Queensrÿche": {
         "last_album": "Digital Noise Alliance",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche_discography",
         "musicbrainz_id": "deeea939-7f89-4762-b09f-79269cd70d3b"
     },
     "Quintorigo": {
         "last_album": "Opposites",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2018",
         "discography_url": "https://it.wikipedia.org/wiki/Quintorigo#Album_in_studio",
         "musicbrainz_id": "73b8eca4-188b-453e-9d0c-ffa273fa05ba"
     },
     "Radiohead": {
         "last_album": "A Moon Shaped Pool",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2016",
         "discography_url": "https://en.wikipedia.org/wiki/Radiohead_discography",
         "musicbrainz_id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
     },
     "Rammstein": {
         "last_album": "Zeit",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Rammstein_discography",
         "musicbrainz_id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
-        "exclude": ["Rare Tracks and Singles Vol. 2"]
+        "exclude": [
+            "Rare Tracks and Singles Vol. 2"
+        ]
     },
     "Rancid": {
         "last_album": "Tomorrow Never Comes",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Rancid_discography",
         "musicbrainz_id": "24f8d8a5-269b-475c-a1cb-792990b0b2ee"
     },
     "Red Hot Chili Peppers": {
         "last_album": "Return of the Dream Canteen",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers_discography",
         "musicbrainz_id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
     },
     "Rhapsody of Fire": {
         "last_album": "Challenge the Wind",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Rhapsody_of_Fire_discography",
         "musicbrainz_id": "4e0dffde-ad2d-45b7-9c75-d57ce55de061"
     },
     "Rivers of Nihil": {
         "last_album": "Rivers of Nihil",
-        "last_check": "2026-01-28",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Rivers_of_Nihil#Studio_albums",
         "musicbrainz_id": "a802fee7-86d5-4043-94a3-a5cc5b121cc9"
     },
     "Peter Fox": {
         "last_album": "Love Songs",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Peter_Fox_(musician)",
         "musicbrainz_id": "10c07fca-2678-40b6-9644-cde68d3e9554"
     },
     "Rage": {
         "last_album": "A New World Rising",
-        "last_check": "2025-12-29",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Rage_(German_band)#Studio_albums",
         "musicbrainz_id": "2a90aa9c-d2ff-49fd-a8e5-2463f657eb45"
     },
     "Rob Zombie": {
         "last_album": "The Great Satan",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Rob_Zombie_discography",
         "musicbrainz_id": "c995a379-60b9-404b-bd97-a7e2de0751d3"
     },
     "Sabaton": {
         "last_album": "Legends",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Sabaton_discography",
         "musicbrainz_id": "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
     },
     "Saxon": {
         "last_album": "Hell, Fire and Damnation",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Saxon_(band)#Discography",
         "musicbrainz_id": "bbd80354-597e-4d53-94e4-92b3a7cb8f2c"
     },
     "Sepultura": {
         "last_album": "Quadra",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Sepultura_discography",
         "musicbrainz_id": "1d93c839-22e7-4f76-ad84-d27039efc048"
     },
     "Seven Spires": {
         "last_album": "A Fortress Called Home",
-        "last_check": "2026-04-03",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
-        "discography_url": "https://en.wikipedia.org/wiki/Sepultura_discography",
+        "discography_url": "https://en.wikipedia.org/wiki/Seven_Spires#Discography",
         "musicbrainz_id": "f74812a1-945e-4b72-915a-e1c2d977370e"
     },
     "Shinedown": {
         "last_album": "Planet Zero",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Shinedown_discography",
-        "musicbrainz_id": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
+        "musicbrainz_id": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+        "missing": "EI8HT"
     },
     "Skidrow": {
         "last_album": "The Gang’s All Here",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Skid_Row_(American_band)#Discography",
         "musicbrainz_id": "6da0515e-a27d-449d-84cc-00713c38a140"
     },
     "Skunk Anansie": {
         "last_album": "The Painful Truth",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2016",
         "discography_url": "https://en.wikipedia.org/wiki/Skunk_Anansie_discography",
-        "musicbrainz_id": "e212efdf-98b2-4dce-92ed-62cfc1e29854",
-        "upcoming": true
+        "musicbrainz_id": "e212efdf-98b2-4dce-92ed-62cfc1e29854"
     },
     "Slash": {
         "last_album": "Orgy of the Damned",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Slash_discography",
         "musicbrainz_id": "5e7a7026-dfc5-4aba-8496-95140716f3db"
     },
     "Slayer": {
         "last_album": "Repentless",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Slayer_discography#Studio_albums",
         "musicbrainz_id": "bdacc37b-8633-4bf8-9dd5-4662ee651aec"
     },
     "Slipknot": {
         "last_album": "The End, So Far",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Slipknot_discography",
         "musicbrainz_id": "a466c2a2-6517-42fb-a160-1087c3bafd9f"
     },
     "Soen": {
         "last_album": "Reliance",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Soen#Studio_albums",
         "musicbrainz_id": "7a42f70d-7c01-46d2-bd88-738967a631f0"
     },
     "Sonata Arctica": {
         "last_album": "Clear Cold Beyond",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Sonata_Arctica_discography",
         "musicbrainz_id": "319b1175-ced9-438f-986b-9239c3edd92d"
     },
     "Soulfly": {
         "last_album": "Chama",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Soulfly#Discography",
         "musicbrainz_id": "832a43c7-aa7d-439b-a6b4-4f1afa671c24"
     },
     "Spiritbox": {
         "last_album": "Tsunami Sea",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Spiritbox_discography",
         "musicbrainz_id": "9c935736-7530-41e4-b776-1dbcf534c061"
     },
     "Static X": {
         "last_album": "Project: Regeneration Vol. 2",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Static-X_discography#Studio_albums",
         "musicbrainz_id": "8ac9e35c-e92d-4030-99ef-ba4127b1555c"
     },
     "Steel Panther": {
         "last_album": "On the Prowl",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Steel_Panther_discography",
         "musicbrainz_id": "f82927e4-b905-4e3b-a82e-5184fbb68b29"
     },
     "Stereophonics": {
         "last_album": "Make 'em Laugh, Make 'em Cry, Make 'em Wait",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Stereophonics_discography",
-        "musicbrainz_id": "0bfba3d3-6a04-4779-bb0a-df07df5b0558",
-        "upcoming": true
+        "musicbrainz_id": "0bfba3d3-6a04-4779-bb0a-df07df5b0558"
     },
     "Steve Vai": {
         "last_album": "Vai/Gash",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Steve_Vai_discography",
         "musicbrainz_id": "5e7ccd92-6277-451a-aab9-1efd587c50f3"
     },
     "Sting": {
         "last_album": "All We Get Is Life",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Sting_discography",
         "musicbrainz_id": "7944ed53-2a58-4035-9b93-140a71e41c34"
     },
     "Stone Temple Pilots": {
         "last_album": "Perdida",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2020",
         "discography_url": "https://en.wikipedia.org/wiki/Stone_Temple_Pilots_discography",
         "musicbrainz_id": "8c32bb01-58a3-453b-8050-8c0620edb0e5"
     },
     "Stratovarius": {
         "last_album": "Survive",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Stratovarius_discography",
         "musicbrainz_id": "c3d6fdd5-67c5-453e-87e3-d17a00a52879",
-        "exclude": ["4th Dimension Complete Demos"]
+        "exclude": [
+            "4th Dimension Complete Demos"
+        ]
     },
     "Subsonica": {
         "last_album": "Terre Rare",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://it.wikipedia.org/wiki/Subsonica#Discografia",
         "musicbrainz_id": "acb79377-b47c-471e-a837-5b9f2d271e7e"
     },
     "Symphony X": {
         "last_album": "Underworld",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Symphony_X#Discography",
         "musicbrainz_id": "b669c53e-5a1f-4adc-80be-755e64e8115e"
     },
     "Tears for fears": {
         "last_album": "The tipping point",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2022",
         "discography_url": "https://en.wikipedia.org/wiki/Tears_for_Fears_discography",
         "musicbrainz_id": "7c7f9c94-dee8-4903-892b-6cf44652e2de"
     },
     "Tesseract": {
         "last_album": "War of Being",
-        "last_check": "2025-12-29",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Tesseract_(band)#Discography",
         "musicbrainz_id": "f1ec4765-e5da-4591-8b50-a8ff9627dda8"
     },
     "Testament": {
         "last_album": "Para Bellum",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Testament_discography",
         "musicbrainz_id": "05106775-5d45-4131-aecc-1177f813ba11"
     },
     "Texas Hippie Coalition": {
         "last_album": "Gunsmoke",
-        "last_check": "2025-11-19",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Texas_Hippie_Coalition#Studio_albums",
         "musicbrainz_id": "74390d37-22d9-469f-8909-9704345319dd"
     },
     "The Black Keys": {
         "last_album": "Peaches!",
-        "last_check": "2026-05-06",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/The_Black_Keys_discography",
         "musicbrainz_id": "d15721d8-56b4-453d-b506-fc915b14cba2"
     },
     "The Cure": {
         "last_album": "Songs of a Lost World",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/The_Cure_discography",
         "musicbrainz_id": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
-        "exclude": ["Mixes of a Lost World"]
+        "exclude": [
+            "Mixes of a Lost World"
+        ],
+        "missing": "A Night Like This 2005 & 2008"
     },
     "The Hives": {
         "last_album": "The Hives Forever Forever The Hives",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/The_Hives_discography",
-        "musicbrainz_id": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f",
-        "upcoming": true
+        "musicbrainz_id": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f"
     },
     "The Killers": {
         "last_album": "Pressure Machine",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/The_Killers_discography#Studio_albums",
         "musicbrainz_id": "95e1ead9-4d31-4808-a7ac-32c3614c116b"
     },
     "The New Roses": {
         "last_album": "Attracted to Danger",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/The_New_Roses#Discography",
         "musicbrainz_id": "b628255c-93fa-4084-8d86-854bebc50783"
     },
     "The Offspring": {
         "last_album": "SUPERCHARGED",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/The_Offspring_discography",
         "musicbrainz_id": "23a03e33-a603-404e-bcbf-2c00159d7067"
     },
     "The Queers": {
         "last_album": "Reverberation",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/The_Queers_discography",
         "musicbrainz_id": "28fd67e8-573c-4cdd-a37d-8b74af74109c"
     },
     "The Rolling Stones": {
         "last_album": "Hackney Diamonds",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones_discography",
-        "musicbrainz_id": "b071f9fa-14b0-4217-8e97-eb41da73f598"
+        "musicbrainz_id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+        "missing": "Foreign Tongues"
     },
     "The Smashing Pumpkins": {
         "last_album": "Aghori Mhori Mei",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/The_Smashing_Pumpkins_discography",
         "musicbrainz_id": "ba0d6274-db14-4ef5-b28d-657ebde1a396"
     },
     "The Warning": {
         "last_album": "Keep Me Fed",
-        "last_check": "2026-08-24",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/The_Warning_discography#Studio_albums",
-        "musicbrainz_id": "7f625f35-7e53-4f08-9201-16643979484b"
+        "musicbrainz_id": "7f625f35-7e53-4f08-9201-16643979484b",
+        "missing": "Everything’s Falling"
     },
     "The Who": {
         "last_album": "Who",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/The_Who_discography",
-        "musicbrainz_id": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
+        "musicbrainz_id": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+        "missing": "Who’s Next"
     },
     "Three Days Grace": {
         "last_album": "Alienation",
-        "last_check": "2025-04-09",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Three_Days_Grace_discography",
         "musicbrainz_id": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
     },
     "Tool": {
         "last_album": "Fear Inoculum",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2019",
         "discography_url": "https://en.wikipedia.org/wiki/Tool_discography",
         "musicbrainz_id": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
-        "exclude":["Transmission Impossible"]
+        "exclude": [
+            "Transmission Impossible"
+        ]
     },
     "Total Chaos": {
         "last_album": "Mind Warfare",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Total_Chaos#Studio_albums",
         "musicbrainz_id": "63598b0b-2fe3-449e-bfa7-325792aee8e8",
-        "exclude": ["World Of Insanity"]
+        "exclude": [
+            "World Of Insanity"
+        ]
     },
     "Trans-Siberian Orchestra": {
         "last_album": "Letters from the Labyrinth",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Trans-Siberian_Orchestra_discography",
         "musicbrainz_id": "d2b83114-af3e-4397-b570-10d81f1dd650"
     },
     "U2": {
         "last_album": "Songs of Surrender",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/U2_discography",
-        "musicbrainz_id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
+        "musicbrainz_id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "missing": "We Will Follow"
     },
     "Volbeat": {
         "last_album": "God of Angels Trust",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Volbeat#Discography",
-        "musicbrainz_id": "4753fcb7-9270-493a-974d-8daca4e49125",
-        "upcoming": true
+        "musicbrainz_id": "4753fcb7-9270-493a-974d-8daca4e49125"
     },
     "Wheel": {
         "last_album": "Charismatic Leaders",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": null,
         "musicbrainz_id": "4a059eea-f04b-4a49-a705-dd7d15566116"
     },
     "Whitesnake": {
         "last_album": "Into the Light: The Solo Albums",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Whitesnake_discography#Studio_albums",
         "musicbrainz_id": "5dedf5cf-a598-4408-9556-3bf3f149f3ba",
-        "exclude": ["The Blues Album"]
+        "exclude": [
+            "The Blues Album"
+        ]
     },
     "Windrose": {
         "last_album": "Trollslayer",
-        "last_check": "2025-04-21",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Wind_Rose_(band)#Studio_albums",
         "musicbrainz_id": "592b488d-dd42-4d9a-a343-d7ca4f69d0bb"
     },
     "Wolfmother": {
         "last_album": "Rock Out",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Wolfmother_discography",
         "musicbrainz_id": "f0c8f75f-8736-4b1d-b312-9349fcff321d"
     },
     "Yngwie Malmsteen": {
         "last_album": "Parabellum",
-        "last_check": "2025-04-12",
+        "last_check": "2026-09-11",
         "last_album_release_date": "2021",
         "discography_url": "https://en.wikipedia.org/wiki/Yngwie_Malmsteen#Studio_albums_2",
         "musicbrainz_id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0"
