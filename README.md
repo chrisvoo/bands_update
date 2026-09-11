@@ -1,5 +1,6 @@
 <div align="center">
     <img src="assets/public-domain-vectors-X0IJ_n37ILo-unsplash.png" width="50%">
+    <br/>    
     <figcaption>
         Image credits:
         <a href="https://unsplash.com/illustrations/two-electric-guitars-crossed-over-each-other-X0IJ_n37ILo">
@@ -12,6 +13,9 @@
     Script for checking new album releases of <a href="checks.json">specific bands</a> through 
     <a href="https://musicbrainz.org/doc/MusicBrainz_API">MusicBrainz API</a>.
     </p>
+    <a href="https://chrisvoo.github.io/bands_update/">
+        <img src="https://img.shields.io/badge/Latest%20Results-GitHub%20Pages-blue?logo=github" alt="Latest Results">
+    </a>
 </div>
 
 ### Instructions
