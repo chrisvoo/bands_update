@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Album Radar — 2026-09-11</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --new: #3fb950;
+      --missing: #d29922;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      padding: 2rem 1.5rem;
+      max-width: 900px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+    header { margin-bottom: 2rem; }
+    h1 { font-size: 1.75rem; font-weight: 700; margin-bottom: 0.25rem; }
+    .meta { color: var(--muted); font-size: 0.875rem; }
+    .stats {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+    }
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.5rem;
+      min-width: 130px;
+    }
+    .stat-value { font-size: 2rem; font-weight: 700; line-height: 1.1; }
+    .stat-value.green { color: var(--new); }
+    .stat-value.yellow { color: var(--missing); }
+    .stat-label { color: var(--muted); font-size: 0.8rem; margin-top: 0.25rem; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      font-size: 0.9rem;
+    }
+    th {
+      background: #1c2128;
+      text-align: left;
+      padding: 0.65rem 1rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 600;
+    }
+    td { padding: 0.7rem 1rem; border-top: 1px solid var(--border); }
+    tr:hover td { background: rgba(255, 255, 255, 0.02); }
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.55em;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-new { background: rgba(63, 185, 80, 0.15); color: var(--new); }
+    .badge-missing { background: rgba(210, 153, 34, 0.15); color: var(--missing); }
+    .date { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
+    .empty { color: var(--muted); font-style: italic; padding: 1rem 0; }
+    footer { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+    @media (max-width: 600px) {
+      .stat-value { font-size: 1.5rem; }
+      td, th { padding: 0.6rem 0.6rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>&#127928; New Album Radar</h1>
+    <p class="meta">Last checked: 2026-09-11 &bull; completed in 0.0s</p>
+  </header>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-value">238</div>
+      <div class="stat-label">Bands tracked</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value green">0</div>
+      <div class="stat-label">New albums</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value yellow">35</div>
+      <div class="stat-label">Still missing</div>
+    </div>
+  </div>
+
+  <table><thead><tr><th>Band</th><th>Status</th><th>Album</th><th>Release Date</th></tr></thead><tbody>
+<tr><td>Accept</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Teutonic Titans 1976-2026</td><td class="date">2024-04-26</td></tr>
+<tr><td>Adelitas Way</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Speak My Mind</td><td class="date">2023-09-16</td></tr>
+<tr><td>Angra</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Temple of Shadows - 20th Anniversary</td><td class="date">2023</td></tr>
+<tr><td>Black Orchid Empire</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>LORE</td><td class="date">2023</td></tr>
+<tr><td>Coat of arms</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Sun &amp; Satellites</td><td class="date">2015</td></tr>
+<tr><td>Cypress hill</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Dios Bendiga</td><td class="date">2022</td></tr>
+<tr><td>Deep purple</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>SPLAT!</td><td class="date">2024</td></tr>
+<tr><td>DevilDriver</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Strike and Kill</td><td class="date">2023</td></tr>
+<tr><td>Devin Townsend</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>The Moth</td><td class="date">2024</td></tr>
+<tr><td>Elton John</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Positiva Presents: Elton John - The Remixes</td><td class="date">2025</td></tr>
+<tr><td>Evanescence</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Sanctuary</td><td class="date">2021</td></tr>
+<tr><td>Fear Factory</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Re‐Industrialized</td><td class="date">2021</td></tr>
+<tr><td>Five Finger Death Punch</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Legacy</td><td class="date">2022</td></tr>
+<tr><td>Her Last Sight</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>SEASONS // SPRING</td><td class="date">2025</td></tr>
+<tr><td>Iron Maiden</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>The Beat Sessions</td><td class="date">2021</td></tr>
+<tr><td>Jovanotti</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>NIUIORCHERUBINI (BROOKLYN STUDIO, JOVA SESSION 25)</td><td class="date">2025</td></tr>
+<tr><td>Lord Of The Lost</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>OPVS NOIR Vol. 3 (Instrumental)</td><td class="date">2026</td></tr>
+<tr><td>Marillion</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Live at the Roundhouse</td><td class="date">2022</td></tr>
+<tr><td>Marilyn Manson</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>One Assassination Under God, Chapter 2</td><td class="date">2024</td></tr>
+<tr><td>Max Gazzè</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>L'ornamento delle cose secondarie</td><td class="date">2021</td></tr>
+<tr><td>Moonspell</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Far From God</td><td class="date">2021</td></tr>
+<tr><td>Muse</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>The Wow! Signal</td><td class="date">2022</td></tr>
+<tr><td>My Chemical Romance</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>The Paper Kingdom (Demos)</td><td class="date">2010</td></tr>
+<tr><td>Nine Inch Nails</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Slate</td><td class="date">2020</td></tr>
+<tr><td>Paramore</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Re: This Is Why</td><td class="date">2023</td></tr>
+<tr><td>Paul McCartney</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>The Boys of Dungeon Lane</td><td class="date">2020</td></tr>
+<tr><td>Pearl Jam</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Radio Transmissions 1995-2000</td><td class="date">2024</td></tr>
+<tr><td>Periphery</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>A Pale White Dot</td><td class="date">2023</td></tr>
+<tr><td>Placebo</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Placebo RE:CREATED</td><td class="date">2022</td></tr>
+<tr><td>Shinedown</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>EI8HT</td><td class="date">2022</td></tr>
+<tr><td>The Cure</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>A Night Like This 2005 &amp; 2008</td><td class="date">2024</td></tr>
+<tr><td>The Rolling Stones</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Foreign Tongues</td><td class="date">2023</td></tr>
+<tr><td>The Warning</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Everything’s Falling</td><td class="date">2024</td></tr>
+<tr><td>The Who</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>Who’s Next</td><td class="date">2019</td></tr>
+<tr><td>U2</td><td><span class="badge badge-missing">STILL MISSING</span></td><td>We Will Follow</td><td class="date">2023</td></tr>
+</tbody></table>
+
+  <footer>Updated monthly via MusicBrainz.</footer>
+</body>
+</html>
