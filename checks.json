@@ -1024,6 +1024,13 @@
             "Massive Attack V Mad Professor Part II (Mezzanine Remix Tapes '98)"
         ]
     },
+    "Mastodon": {
+        "last_album": "Marrow Deep",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2026",
+        "discography_url": "https://en.wikipedia.org/wiki/Mastodon_discography",
+        "musicbrainz_id": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727"
+    },
     "Max Gazzè": {
         "last_album": "L'ornamento delle cose secondarie",
         "last_check": "2026-09-11",
@@ -1735,6 +1742,13 @@
         "discography_url": "https://en.wikipedia.org/wiki/U2_discography",
         "musicbrainz_id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
         "exclude": ["We Will Follow"]
+    },
+    "Vinicio Capossela": {
+        "last_album": "Sciusten feste n.1965",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2024",
+        "discography_url": "https://it.wikipedia.org/wiki/Vinicio_Capossela#Album_in_studio",
+        "musicbrainz_id": "5115929f-f133-47b4-bf1c-8a0df582ce23"
     },
     "Volbeat": {
         "last_album": "God of Angels Trust",
