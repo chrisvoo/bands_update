@@ -451,6 +451,13 @@
         "discography_url": "https://en.wikipedia.org/wiki/Def_Leppard_discography",
         "musicbrainz_id": "7249b899-8db8-43e7-9e6e-22f1e736024e"
     },
+    "Deftones": {
+        "last_album": "private music",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Deftones_discography",
+        "musicbrainz_id": "7527f6c2-d762-4b88-b5e2-9244f1e34c46"
+    },
     "Depeche Mode": {
         "last_album": "Memento Mori",
         "last_check": "2026-09-11",
@@ -520,6 +527,13 @@
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Dream_Theater_discography",
         "musicbrainz_id": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d"
+    },
+    "Dropkick Murphys": {
+        "last_album": "For the People",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Dropkick_Murphys_discography",
+        "musicbrainz_id": "e8374874-4178-4869-b92e-fef6bf30dc04"
     },
     "Dvne": {
         "last_album": "Voidkind",
@@ -663,6 +677,13 @@
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Foo_Fighters_discography",
         "musicbrainz_id": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
+    },
+    "Franz Ferdinand": {
+        "last_album": "The Human Fear",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Franz_Ferdinand_discography",
+        "musicbrainz_id": "aa7a2827-f74b-473c-bd79-03d065835cf7"
     },
     "Galderia": {
         "last_album": "Endless Horizon",
@@ -1045,6 +1066,13 @@
         "discography_url": "https://en.wikipedia.org/wiki/Megadeth_discography#Studio_albums",
         "musicbrainz_id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
     },
+    "Meshuggah": {
+        "last_album": "Immutable",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2022",
+        "discography_url": "https://en.wikipedia.org/wiki/Meshuggah_discography",
+        "musicbrainz_id": "cf8b3b8c-118e-4136-8d1d-c37091173413"
+    },
     "Metallica": {
         "last_album": "72 Seasons",
         "last_check": "2026-09-11",
@@ -1108,6 +1136,13 @@
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Muse_discography",
         "musicbrainz_id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+    },
+    "Mushroomhead": {
+        "last_album": "Call the Devil",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2024",
+        "discography_url": "https://en.wikipedia.org/wiki/Mushroomhead_discography",
+        "musicbrainz_id": "6e755d2d-0b47-449d-b03f-fcacec33aab2"
     },
     "My Chemical Romance": {
         "last_album": "Danger Days: The True Lives of the Fabulous Killjoys",
@@ -1283,6 +1318,13 @@
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/Pink_discography",
         "musicbrainz_id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+    },
+    "Pixies": {
+        "last_album": "The Night the Zombies Came",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2024",
+        "discography_url": "https://en.wikipedia.org/wiki/Pixies_discography",
+        "musicbrainz_id": "b6b2bb8d-54a9-491f-9607-7b546023b433"
     },
     "PJ Harvey": {
         "last_album": "I Inside the Old Year Dying",
