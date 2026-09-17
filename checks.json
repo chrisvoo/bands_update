@@ -70,6 +70,13 @@
             "Greatest Hits (Chopped Not Slopped by DJ Lil Steve)"
         ]
     },
+    "Alien Ant Farm": {
+        "last_album": "~mAntras~",
+        "last_album_release_date": "2024",
+        "last_check": "2026-09-11",
+        "discography_url": "https://en.wikipedia.org/wiki/Alien_Ant_Farm#Discography",
+        "musicbrainz_id": "8ac6cc32-8ddf-43b1-9ac4-4b04f9053176"
+    },
     "Alter Bridge": {
         "last_album": "Alter Bridge",
         "last_album_release_date": "2026",
@@ -1194,6 +1201,17 @@
         "discography_url": "https://en.wikipedia.org/wiki/Norah_Jones_discography",
         "musicbrainz_id": "985c709c-7771-4de3-9024-7bda29ebe3f9"
     },
+    "Nothing But Thieves": {
+        "last_album": "Dead Club City",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2023",
+        "discography_url": "https://en.wikipedia.org/wiki/Nothing_but_Thieves#Studio_albums",
+        "musicbrainz_id": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+        "upcoming": {
+            "album_name": "Stray Dogs",
+            "release_date": "2026-09-25"
+        }
+    },
     "Liam Gallagher": {
         "last_album": "Liam Gallagher John Squire",
         "last_check": "2026-09-11",
@@ -1532,6 +1550,13 @@
         "last_album_release_date": "2015",
         "discography_url": "https://en.wikipedia.org/wiki/Slayer_discography#Studio_albums",
         "musicbrainz_id": "bdacc37b-8633-4bf8-9dd5-4662ee651aec"
+    },
+    "Sleep Token": {
+        "last_album": "Even in Arcadia",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Sleep_Token_discography",
+        "musicbrainz_id": "775ad383-ac2d-479a-af9d-b561442cb749"
     },
     "Slipknot": {
         "last_album": "The End, So Far",
