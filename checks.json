@@ -152,6 +152,13 @@
         "discography_url": "https://en.wikipedia.org/wiki/Architects_discography",
         "musicbrainz_id": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c"
     },
+    "Arctic Monkeys": {
+        "last_album": "The Car",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2022",
+        "discography_url": "https://en.wikipedia.org/wiki/Arctic_Monkeys#Discography",
+        "musicbrainz_id": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+    },
     "Artillery": {
         "last_album": "X",
         "last_check": "2026-09-11",
@@ -404,6 +411,13 @@
         "last_album_release_date": "2016",
         "discography_url": "https://it.wikipedia.org/wiki/Discografia_di_Paolo_Conte",
         "musicbrainz_id": "777bfd31-0c54-49b9-b057-c1fa742cdcf1"
+    },
+    "Cradle of Filth": {
+        "last_album": "The Screaming of the Valkyries",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Cradle_of_Filth_discography",
+        "musicbrainz_id": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308"
     },
     "Creed": {
         "last_album": "Full Circle",
@@ -1316,6 +1330,13 @@
         "musicbrainz_id": "a0cef17a-4574-44f4-9f97-fd068615dac6",
         "missing": "A Pale White Dot"
     },
+    "Peter Fox": {
+        "last_album": "Love Songs",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2023",
+        "discography_url": "https://en.wikipedia.org/wiki/Peter_Fox_(musician)",
+        "musicbrainz_id": "10c07fca-2678-40b6-9644-cde68d3e9554"
+    },
     "Peter Gabriel": {
         "last_album": "I/O",
         "last_check": "2026-09-11",
@@ -1460,19 +1481,19 @@
         "discography_url": "https://en.wikipedia.org/wiki/Rhapsody_of_Fire_discography",
         "musicbrainz_id": "4e0dffde-ad2d-45b7-9c75-d57ce55de061"
     },
+    "Rise against": {
+        "last_album": "Ricochet",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Rise_Against#Discography",
+        "musicbrainz_id": "606bf117-494f-4864-891f-09d63ff6aa4b"
+    },
     "Rivers of Nihil": {
         "last_album": "Rivers of Nihil",
         "last_check": "2026-09-11",
         "last_album_release_date": "2025",
         "discography_url": "https://en.wikipedia.org/wiki/Rivers_of_Nihil#Studio_albums",
         "musicbrainz_id": "a802fee7-86d5-4043-94a3-a5cc5b121cc9"
-    },
-    "Peter Fox": {
-        "last_album": "Love Songs",
-        "last_check": "2026-09-11",
-        "last_album_release_date": "2023",
-        "discography_url": "https://en.wikipedia.org/wiki/Peter_Fox_(musician)",
-        "musicbrainz_id": "10c07fca-2678-40b6-9644-cde68d3e9554"
     },
     "Rage": {
         "last_album": "A New World Rising",
@@ -1487,6 +1508,17 @@
         "last_album_release_date": "2026",
         "discography_url": "https://en.wikipedia.org/wiki/Rob_Zombie_discography",
         "musicbrainz_id": "c995a379-60b9-404b-bd97-a7e2de0751d3"
+    },
+    "Royal blood": {
+        "last_album": "Back to the Water Below",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2023",
+        "discography_url": "https://en.wikipedia.org/wiki/Royal_Blood_(band)",
+        "musicbrainz_id": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+        "upcoming": {
+            "album_name": "Perfecth",
+            "release_date": "2026-11-13"
+        }
     },
     "Sabaton": {
         "last_album": "Legends",
@@ -1543,6 +1575,13 @@
         "last_album_release_date": "2024",
         "discography_url": "https://en.wikipedia.org/wiki/Slash_discography",
         "musicbrainz_id": "5e7a7026-dfc5-4aba-8496-95140716f3db"
+    },
+    "Slaughter to Prevail": {
+        "last_album": "Grizzly",
+        "last_check": "2026-09-11",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Slaughter_to_Prevail#Studio_albums",
+        "musicbrainz_id": "4cda7e49-b8cc-4efe-a8f6-b294d812496d"
     },
     "Slayer": {
         "last_album": "Repentless",
