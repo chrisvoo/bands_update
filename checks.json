@@ -1541,6 +1541,13 @@
         "discography_url": "https://en.wikipedia.org/wiki/Sabaton_discography",
         "musicbrainz_id": "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
     },
+    "Sam Fender": {
+        "last_album": "People Watching",
+        "last_check": "2026-10-02",
+        "last_album_release_date": "2025",
+        "discography_url": "https://en.wikipedia.org/wiki/Sam_Fender_discography",
+        "musicbrainz_id": "3478a5d1-bd96-4584-aa54-4d6e0a329658"
+    },
     "Saxon": {
         "last_album": "Hell, Fire and Damnation",
         "last_check": "2026-10-01",
@@ -1764,6 +1771,13 @@
         "last_album_release_date": "2023",
         "discography_url": "https://en.wikipedia.org/wiki/The_Hives_discography",
         "musicbrainz_id": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f"
+    },
+    "The HU": {
+        "last_album": "Hun",
+        "last_check": "2026-10-02",
+        "last_album_release_date": "2026",
+        "discography_url": "https://en.wikipedia.org/wiki/The_Hu#Studio_albums",
+        "musicbrainz_id": "8601a656-4830-457c-a3f1-f25b105d1629"
     },
     "The Killers": {
         "last_album": "Pressure Machine",
